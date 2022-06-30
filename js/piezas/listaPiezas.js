@@ -1,10 +1,10 @@
-import { piezaI } from "../../../MiniJuego/js/tetris/piezas/piezaI.js";
-import { piezaJ } from "../../../MiniJuego/js/tetris/piezas/piezaJ.js";
-import { piezaL } from "../../../MiniJuego/js/tetris/piezas/piezaL.js";
-import { piezaO } from "../../../MiniJuego/js/tetris/piezas/piezaO.js";
-import { piezaS } from "../../../MiniJuego/js/tetris/piezas/piezaS.js";
-import { piezaT } from "../../../MiniJuego/js/tetris/piezas/piezaT.js";
-import { piezaZ } from "../../../MiniJuego/js/tetris/piezas/piezaZ.js";
+import { piezaI } from "./piezaI";
+import { piezaJ } from "./piezaJ";
+import { piezaL } from "./piezaL";
+import { piezaO } from "./piezaO";
+import { piezaS } from "./PiezaS";
+import { piezaT } from "./piezaT";
+import { piezaZ } from "./piezaZ";
 
 export const listaPiezas = [];
 listaPiezas.push(piezaO);
