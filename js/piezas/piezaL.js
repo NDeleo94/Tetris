@@ -20,3 +20,5 @@ export const piezaL = [
     [0, 0, 0],
   ],
 ];
+
+//pieza Violeta / Celeste

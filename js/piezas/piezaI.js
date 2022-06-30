@@ -24,3 +24,5 @@ export const piezaI = [
     [0, 0, 0, 0],
   ],
 ];
+
+//pieza Roja

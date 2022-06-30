@@ -20,3 +20,5 @@ export const piezaZ = [
     [0, 4, 0],
   ],
 ];
+
+//pieza Amarilla

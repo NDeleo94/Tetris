@@ -16,3 +16,5 @@ export const piezaO = [
     [1, 1],
   ],
 ];
+
+//pieza Azul

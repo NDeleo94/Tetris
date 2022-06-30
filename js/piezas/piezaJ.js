@@ -20,3 +20,5 @@ export const piezaJ = [
     [0, 0, 7],
   ],
 ];
+
+//pieza Indigo

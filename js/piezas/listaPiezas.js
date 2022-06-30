@@ -2,7 +2,7 @@ import { piezaI } from "./piezaI";
 import { piezaJ } from "./piezaJ";
 import { piezaL } from "./piezaL";
 import { piezaO } from "./piezaO";
-import { piezaS } from "./PiezaS";
+import { piezaS } from "./piezaS";
 import { piezaT } from "./piezaT";
 import { piezaZ } from "./piezaZ";
 

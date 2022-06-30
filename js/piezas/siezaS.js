@@ -20,3 +20,5 @@ export const piezaS = [
     [0, 5, 0],
   ],
 ];
+
+//pieza Verde
