@@ -1,10 +1,10 @@
-import { piezaI } from "./piezaI";
-import { piezaJ } from "./piezaJ";
-import { piezaL } from "./piezaL";
-import { piezaO } from "./piezaO";
-import { piezaS } from "./piezaS";
-import { piezaT } from "./piezaT";
-import { piezaZ } from "./piezaZ";
+import { piezaI } from "./piezaI.js";
+import { piezaJ } from "./piezaJ.js";
+import { piezaL } from "./piezaL.js";
+import { piezaO } from "./piezaO.js";
+import { piezaS } from "./piezaS.js";
+import { piezaT } from "./piezaT.js";
+import { piezaZ } from "./piezaZ.js";
 
 export const listaPiezas = [];
 listaPiezas.push(piezaO);
