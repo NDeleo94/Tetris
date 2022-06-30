@@ -1,4 +1,4 @@
-import { ObjPieza } from "../objetos/ObjPieza.js";
+import { ObjPieza } from "../objetos/objPieza.js";
 import { ObjTablero } from "../objetos/objTablero.js";
 import { inicializarTeclado } from "../teclado/teclado.js";
 import {
