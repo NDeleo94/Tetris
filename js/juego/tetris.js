@@ -17,7 +17,7 @@ var ctx;
 var tablero;
 var pieza;
 
-export const inicializar = () => {
+const inicializar = () => {
   //Inicializamos la variables globales
   canvas = document.getElementById("canvas");
   ctx = canvas.getContext("2d");
@@ -39,7 +39,7 @@ export const inicializar = () => {
   }, 1000 / FPS);
 };
 
-window.inicializar = inicializar;
+window.onload = inicializar;
 
 const borrarCanvas = () => {
   //La manera mas rapida de borrar el canvas
