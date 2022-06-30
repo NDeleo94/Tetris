@@ -39,7 +39,7 @@ const inicializar = () => {
   }, 1000 / FPS);
 };
 
-window.onload = inicializar;
+document.getElementById("body").onload = inicializar()
 
 const borrarCanvas = () => {
   //La manera mas rapida de borrar el canvas
