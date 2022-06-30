@@ -39,7 +39,7 @@ export class ObjPieza {
     // this.tipo = 3;
     this.angulo = 0;
     this.y = 0;
-    this.x = 4;
+    this.x = 5;
   }
 
   caerPieza() {
@@ -60,7 +60,7 @@ export class ObjPieza {
           console.log(this.tablero);
           console.log("HAS PERDIDO");
           alert("HAS PERDIDO");
-          alert("Presiona la BARRA ESPACIADORA para reiniciar");
+          alert("BARRA ESPACIADORA o el boton REINICIAR para un nuevo juego");
         }
       }
     }

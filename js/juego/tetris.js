@@ -14,8 +14,8 @@ import {
 var canvas;
 var ctx;
 
-var tablero;
-var pieza;
+export var tablero;
+export var pieza;
 
 const inicializar = () => {
   //Inicializamos la variables globales
@@ -39,7 +39,7 @@ const inicializar = () => {
   }, 1000 / FPS);
 };
 
-document.getElementById("body").onload = inicializar()
+document.getElementById("body").onload = inicializar();
 
 const borrarCanvas = () => {
   //La manera mas rapida de borrar el canvas
